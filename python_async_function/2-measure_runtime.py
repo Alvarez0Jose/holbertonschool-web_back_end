@@ -4,11 +4,10 @@ Module that returns total execution time
 """
 import time
 import asyncio
-
 wait_n = __import__('1-concurrent_corutines').wait_n
 
 
-def mesure_time(n: int, max_delay: int) -> float:
+def measure_time(n: int, max_delay: int) -> float:
     """
     Funtion that calculates the time of execution
     """
