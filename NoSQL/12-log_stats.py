@@ -1,4 +1,4 @@
-#!/usr/bin/e(nv python3
+#!/usr/bin/env python3
 """
 Logs stats
 """
