@@ -1,5 +1,5 @@
-/* eslint disable */
-export default function HolbertonCourse {
+/* eslint-disable */
+export default class HolbertonCourse {
     constructor(name, length, students) {
         this._name = this.validateString(name, 'Name');
         this._length = this.validateNumber(length, 'Length');
