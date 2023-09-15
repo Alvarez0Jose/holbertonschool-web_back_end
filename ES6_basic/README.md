@@ -1,0 +1,1 @@
+Here we're going to start learning about ES6
