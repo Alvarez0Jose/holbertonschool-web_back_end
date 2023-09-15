@@ -1,4 +1,4 @@
-/* eslint disable */
+/* eslint-disable */
 
 import Building from "./5-building.js";
 
